@@ -1,3 +1,7 @@
+# DermaDL implementation for keras
+# based on http://doi.org/10.1109/CBMS49503.2020.00101
+# and extended for multiclass output
+
 import re
 import os
 import sys
